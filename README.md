@@ -6,7 +6,8 @@
 - Anonymization and Deanonymization system (Python, Docker, AWS)
 - NLP class room 𖮃
 
-- 💬 Ask me about at pkisiel@gmail.com
+💬 Ask me about at pkisiel@gmail.com
+
 
 <a href="https://buycoffee.to/pkisiel" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 150px" alt="Postaw mi kawę na buycoffee.to"></a>
 
