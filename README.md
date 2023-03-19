@@ -3,7 +3,7 @@
 🔭 I’m currently working on:
 - API for ERP System (dotnet core)
 - C++ class room :)
-- Anonymization and Deanonymization system
+- Anonymization and Deanonymization system (Python, Docker, AWS)
 
 <a href="https://buycoffee.to/pkisiel" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 150px" alt="Postaw mi kawę na buycoffee.to"></a>
 
