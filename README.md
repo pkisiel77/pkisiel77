@@ -5,6 +5,7 @@
 - C++ class room 😎
 - Anonymization and Deanonymization system (Python, Docker, AWS)
 - NLP class room 𖮃
+- NER for ANON Engine 😎
 
 💬 pkisiel@gmail.com
 
