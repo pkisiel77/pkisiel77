@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
+- NER for Anonymization Engine 😎
+- Deanonymization Engine 😎
 - API for ERP System (dotnet core)
 - C++ class room 😎
-- Anonymization and Deanonymization system (Python, Docker, AWS)
 - NLP class room 𖮃
-- NER for ANON Engine 😎
 
 💬 pkisiel@gmail.com
 
