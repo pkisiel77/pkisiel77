@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- NER for Anonymization Engine 😎
-- Deanonymization Engine 😎
+- LLM solutions
+- GreenEdTech solution
+- Pet finder
 - API for ERP System (dotnet core)
-- C++ class room 😎
-- NLP class room 𖮃
+- C, C++, Python classroom 😎
+- spacy.io 😎
+- [Twilio](https://www.twilio.com/) solution with Python FAST API and Redis/Postgresql
+
 
 💬 pkisiel@gmail.com
 
