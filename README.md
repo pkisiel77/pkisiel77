@@ -2,8 +2,9 @@
 
 🔭 I’m currently working on:
 - LLM solutions
+- AI Agents (LangChain, LangGraph, CrewAI)
 - GreenEdTech solution
-- Pet finder
+- Pet finder (AI solutions)
 - API for ERP System (dotnet core)
 - C, C++, Python classroom 😎
 - spacy.io 😎
